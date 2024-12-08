@@ -1,0 +1,19 @@
+body {
+    background-color: #F5F5DC;
+    font-family: Ariel,sans-serif;
+} 
+h1 {
+    color:#0000FF;
+    text-decoration:underline;
+}
+h3 {
+    color:#0000FF;
+}
+ul, ol {
+    font-family: 'Banscrift',sans-serif;
+    font-size: 22px;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
